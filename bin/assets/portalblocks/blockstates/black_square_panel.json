@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"variant=normal": { "model": "portalblocks:black_square_panel" },
+		"variant=grid":	  { "model": "portalblocks:black_square_panel_grid" }
+	}
+}

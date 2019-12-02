@@ -1,0 +1,6 @@
+{
+    "parent": "portalblocks:block/dynamic_tile/template_west",
+    "textures": {
+        "face": "portalblocks:block/frame_black"
+    }
+}

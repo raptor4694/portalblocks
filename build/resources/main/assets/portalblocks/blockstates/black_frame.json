@@ -1,0 +1,22 @@
+{
+	"variants": {
+		"axis=x": [
+			{ "model": "portalblocks:black_frame_1", "y": 90 },
+			{ "model": "portalblocks:black_frame_2", "y": 90 },
+			{ "model": "portalblocks:black_frame_3", "y": 90 },
+			{ "model": "portalblocks:black_frame_4", "y": 90 }
+		],
+		"axis=z": [
+			{ "model": "portalblocks:black_frame_1" },
+			{ "model": "portalblocks:black_frame_2" },
+			{ "model": "portalblocks:black_frame_3" },
+			{ "model": "portalblocks:black_frame_4" }
+		],
+		"axis=y": [
+			{ "model": "portalblocks:black_frame_1", "x": 90 },
+			{ "model": "portalblocks:black_frame_2", "x": 90 },
+			{ "model": "portalblocks:black_frame_3", "x": 90 },
+			{ "model": "portalblocks:black_frame_4", "x": 90 }
+		]
+	}
+}

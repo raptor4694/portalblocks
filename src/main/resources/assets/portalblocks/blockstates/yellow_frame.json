@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"axis=x": { "model": "portalblocks:yellow_frame", "y": 90 },
+		"axis=z": { "model": "portalblocks:yellow_frame" },
+		"axis=y": { "model": "portalblocks:yellow_frame", "x": 90 }
+	}
+}

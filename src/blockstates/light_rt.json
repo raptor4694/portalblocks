@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,orientation=side":	{ "model": "portalblocks:light_rt"						},
+		"facing=east,orientation=side":		{ "model": "portalblocks:light_rt",				"y": 90	},
+		"facing=south,orientation=side":	{ "model": "portalblocks:light_rt",				"y": 180},
+		"facing=west,orientation=side":		{ "model": "portalblocks:light_rt",				"y": -90},
+		
+		"facing=north,orientation=top":		{ "model": "portalblocks:light_rb",	"x": -90			},
+		"facing=east,orientation=top":		{ "model": "portalblocks:light_rb",	"x": -90,	"y": 90	},
+		"facing=south,orientation=top":		{ "model": "portalblocks:light_rb",	"x": -90,	"y": 180},
+		"facing=west,orientation=top":		{ "model": "portalblocks:light_rb",	"x": -90,	"y": -90},
+		
+		"facing=north,orientation=bottom":	{ "model": "portalblocks:light_rt",	"x":  90			},
+		"facing=east,orientation=bottom":	{ "model": "portalblocks:light_rt",	"x":  90,	"y": 90	},
+		"facing=south,orientation=bottom":	{ "model": "portalblocks:light_rt",	"x":  90,	"y": 180},
+		"facing=west,orientation=bottom":	{ "model": "portalblocks:light_rt",	"x":  90,	"y": -90}
+	}
+}

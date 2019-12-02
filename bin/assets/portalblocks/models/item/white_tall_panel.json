@@ -1,0 +1,8 @@
+{
+	"parent": "portalblocks:item/template_tall_panel",
+	"textures": {
+		"top": "portalblocks:block/panels/white/clean/square",
+		"upper": "portalblocks:block/panels/white/clean/tall_top",
+		"lower": "portalblocks:block/panels/white/clean/tall_bottom"
+	}
+}

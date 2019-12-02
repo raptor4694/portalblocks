@@ -1,0 +1,1084 @@
+{
+    "multipart": [
+        {
+            "when": { "north": "none" },
+            "apply": { "model": "portalblocks:dynamic_panel/none/north" }
+        },
+        {
+            "when": { "north": "white_square" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_square/north" }
+        },
+        {
+            "when": { "north": "white_grid" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_grid/north" }
+        },
+        {
+            "when": { "north": "white_tall_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_top/north" }
+        },
+        {
+            "when": { "north": "white_tall_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_left/north" }
+        },
+        {
+            "when": { "north": "white_tall_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_right/north" }
+        },
+        {
+            "when": { "north": "white_tall_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_bottom/north" }
+        },
+        {
+            "when": { "north": "white_large_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_lt/north" }
+        },
+        {
+            "when": { "north": "white_large_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_lb/north" }
+        },
+        {
+            "when": { "north": "white_large_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_rt/north" }
+        },
+        {
+            "when": { "north": "white_large_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_rb/north" }
+        },
+        {
+            "when": { "north": "white_light_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_lt/north" }
+        },
+        {
+            "when": { "north": "white_light_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_lb/north" }
+        },
+        {
+            "when": { "north": "white_light_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_rt/north" }
+        },
+        {
+            "when": { "north": "white_light_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_rb/north" }
+        },
+        {
+            "when": { "north": "white_light_tl" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_tl/north" }
+        },
+        {
+            "when": { "north": "white_light_tr" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_tr/north" }
+        },
+        {
+            "when": { "north": "white_light_bl" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_bl/north" }
+        },
+        {
+            "when": { "north": "white_light_br" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_br/north" }
+        },
+        {
+            "when": { "north": "black_square" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_square/north" }
+        },
+        {
+            "when": { "north": "black_grid" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_grid/north" }
+        },
+        {
+            "when": { "north": "black_tall_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_top/north" }
+        },
+        {
+            "when": { "north": "black_tall_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_left/north" }
+        },
+        {
+            "when": { "north": "black_tall_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_right/north" }
+        },
+        {
+            "when": { "north": "black_tall_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_bottom/north" }
+        },
+        {
+            "when": { "north": "black_large_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_lt/north" }
+        },
+        {
+            "when": { "north": "black_large_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_lb/north" }
+        },
+        {
+            "when": { "north": "black_large_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_rt/north" }
+        },
+        {
+            "when": { "north": "black_large_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_rb/north" }
+        },
+        {
+            "when": { "north": "black_light_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_lt/north" }
+        },
+        {
+            "when": { "north": "black_light_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_lb/north" }
+        },
+        {
+            "when": { "north": "black_light_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_rt/north" }
+        },
+        {
+            "when": { "north": "black_light_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_rb/north" }
+        },
+        {
+            "when": { "north": "black_light_tl" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_tl/north" }
+        },
+        {
+            "when": { "north": "black_light_tr" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_tr/north" }
+        },
+        {
+            "when": { "north": "black_light_bl" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_bl/north" }
+        },
+        {
+            "when": { "north": "black_light_br" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_br/north" }
+        },
+        {
+            "when": { "north": "stained_white_tall_1_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_top/north" }
+        },
+        {
+            "when": { "north": "light_both_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_top/north" }
+        },
+        {
+            "when": { "north": "stained_white_tall_1_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_left/north" }
+        },
+        {
+            "when": { "north": "light_both_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_left/north" }
+        },
+        {
+            "when": { "north": "stained_white_tall_1_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_right/north" }
+        },
+        {
+            "when": { "north": "light_both_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_right/north" }
+        },
+        {
+            "when": { "north": "stained_white_tall_1_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_bottom/north" }
+        },
+        {
+            "when": { "north": "light_both_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_bottom/north" }
+        },
+        {
+            "when": { "south": "none" },
+            "apply": { "model": "portalblocks:dynamic_panel/none/south" }
+        },
+        {
+            "when": { "south": "white_square" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_square/south" }
+        },
+        {
+            "when": { "south": "white_grid" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_grid/south" }
+        },
+        {
+            "when": { "south": "white_tall_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_top/south" }
+        },
+        {
+            "when": { "south": "white_tall_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_left/south" }
+        },
+        {
+            "when": { "south": "white_tall_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_right/south" }
+        },
+        {
+            "when": { "south": "white_tall_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_bottom/south" }
+        },
+        {
+            "when": { "south": "white_large_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_lt/south" }
+        },
+        {
+            "when": { "south": "white_large_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_lb/south" }
+        },
+        {
+            "when": { "south": "white_large_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_rt/south" }
+        },
+        {
+            "when": { "south": "white_large_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_rb/south" }
+        },
+        {
+            "when": { "south": "white_light_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_lt/south" }
+        },
+        {
+            "when": { "south": "white_light_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_lb/south" }
+        },
+        {
+            "when": { "south": "white_light_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_rt/south" }
+        },
+        {
+            "when": { "south": "white_light_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_rb/south" }
+        },
+        {
+            "when": { "south": "white_light_tl" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_tl/south" }
+        },
+        {
+            "when": { "south": "white_light_tr" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_tr/south" }
+        },
+        {
+            "when": { "south": "white_light_bl" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_bl/south" }
+        },
+        {
+            "when": { "south": "white_light_br" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_br/south" }
+        },
+        {
+            "when": { "south": "black_square" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_square/south" }
+        },
+        {
+            "when": { "south": "black_grid" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_grid/south" }
+        },
+        {
+            "when": { "south": "black_tall_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_top/south" }
+        },
+        {
+            "when": { "south": "black_tall_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_left/south" }
+        },
+        {
+            "when": { "south": "black_tall_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_right/south" }
+        },
+        {
+            "when": { "south": "black_tall_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_bottom/south" }
+        },
+        {
+            "when": { "south": "black_large_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_lt/south" }
+        },
+        {
+            "when": { "south": "black_large_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_lb/south" }
+        },
+        {
+            "when": { "south": "black_large_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_rt/south" }
+        },
+        {
+            "when": { "south": "black_large_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_rb/south" }
+        },
+        {
+            "when": { "south": "black_light_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_lt/south" }
+        },
+        {
+            "when": { "south": "black_light_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_lb/south" }
+        },
+        {
+            "when": { "south": "black_light_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_rt/south" }
+        },
+        {
+            "when": { "south": "black_light_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_rb/south" }
+        },
+        {
+            "when": { "south": "black_light_tl" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_tl/south" }
+        },
+        {
+            "when": { "south": "black_light_tr" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_tr/south" }
+        },
+        {
+            "when": { "south": "black_light_bl" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_bl/south" }
+        },
+        {
+            "when": { "south": "black_light_br" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_br/south" }
+        },
+        {
+            "when": { "south": "stained_white_tall_1_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_top/south" }
+        },
+        {
+            "when": { "south": "light_both_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_top/south" }
+        },
+        {
+            "when": { "south": "stained_white_tall_1_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_left/south" }
+        },
+        {
+            "when": { "south": "light_both_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_left/south" }
+        },
+        {
+            "when": { "south": "stained_white_tall_1_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_right/south" }
+        },
+        {
+            "when": { "south": "light_both_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_right/south" }
+        },
+        {
+            "when": { "south": "stained_white_tall_1_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_bottom/south" }
+        },
+        {
+            "when": { "south": "light_both_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_bottom/south" }
+        },
+        {
+            "when": { "east": "none" },
+            "apply": { "model": "portalblocks:dynamic_panel/none/east" }
+        },
+        {
+            "when": { "east": "white_square" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_square/east" }
+        },
+        {
+            "when": { "east": "white_grid" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_grid/east" }
+        },
+        {
+            "when": { "east": "white_tall_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_top/east" }
+        },
+        {
+            "when": { "east": "white_tall_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_left/east" }
+        },
+        {
+            "when": { "east": "white_tall_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_right/east" }
+        },
+        {
+            "when": { "east": "white_tall_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_bottom/east" }
+        },
+        {
+            "when": { "east": "white_large_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_lt/east" }
+        },
+        {
+            "when": { "east": "white_large_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_lb/east" }
+        },
+        {
+            "when": { "east": "white_large_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_rt/east" }
+        },
+        {
+            "when": { "east": "white_large_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_rb/east" }
+        },
+        {
+            "when": { "east": "white_light_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_lt/east" }
+        },
+        {
+            "when": { "east": "white_light_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_lb/east" }
+        },
+        {
+            "when": { "east": "white_light_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_rt/east" }
+        },
+        {
+            "when": { "east": "white_light_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_rb/east" }
+        },
+        {
+            "when": { "east": "white_light_tl" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_tl/east" }
+        },
+        {
+            "when": { "east": "white_light_tr" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_tr/east" }
+        },
+        {
+            "when": { "east": "white_light_bl" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_bl/east" }
+        },
+        {
+            "when": { "east": "white_light_br" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_br/east" }
+        },
+        {
+            "when": { "east": "black_square" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_square/east" }
+        },
+        {
+            "when": { "east": "black_grid" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_grid/east" }
+        },
+        {
+            "when": { "east": "black_tall_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_top/east" }
+        },
+        {
+            "when": { "east": "black_tall_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_left/east" }
+        },
+        {
+            "when": { "east": "black_tall_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_right/east" }
+        },
+        {
+            "when": { "east": "black_tall_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_bottom/east" }
+        },
+        {
+            "when": { "east": "black_large_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_lt/east" }
+        },
+        {
+            "when": { "east": "black_large_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_lb/east" }
+        },
+        {
+            "when": { "east": "black_large_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_rt/east" }
+        },
+        {
+            "when": { "east": "black_large_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_rb/east" }
+        },
+        {
+            "when": { "east": "black_light_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_lt/east" }
+        },
+        {
+            "when": { "east": "black_light_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_lb/east" }
+        },
+        {
+            "when": { "east": "black_light_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_rt/east" }
+        },
+        {
+            "when": { "east": "black_light_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_rb/east" }
+        },
+        {
+            "when": { "east": "black_light_tl" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_tl/east" }
+        },
+        {
+            "when": { "east": "black_light_tr" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_tr/east" }
+        },
+        {
+            "when": { "east": "black_light_bl" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_bl/east" }
+        },
+        {
+            "when": { "east": "black_light_br" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_br/east" }
+        },
+        {
+            "when": { "east": "stained_white_tall_1_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_top/east" }
+        },
+        {
+            "when": { "east": "light_both_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_top/east" }
+        },
+        {
+            "when": { "east": "stained_white_tall_1_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_left/east" }
+        },
+        {
+            "when": { "east": "light_both_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_left/east" }
+        },
+        {
+            "when": { "east": "stained_white_tall_1_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_right/east" }
+        },
+        {
+            "when": { "east": "light_both_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_right/east" }
+        },
+        {
+            "when": { "east": "stained_white_tall_1_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_bottom/east" }
+        },
+        {
+            "when": { "east": "light_both_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_bottom/east" }
+        },
+        {
+            "when": { "west": "none" },
+            "apply": { "model": "portalblocks:dynamic_panel/none/west" }
+        },
+        {
+            "when": { "west": "white_square" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_square/west" }
+        },
+        {
+            "when": { "west": "white_grid" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_grid/west" }
+        },
+        {
+            "when": { "west": "white_tall_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_top/west" }
+        },
+        {
+            "when": { "west": "white_tall_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_left/west" }
+        },
+        {
+            "when": { "west": "white_tall_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_right/west" }
+        },
+        {
+            "when": { "west": "white_tall_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_bottom/west" }
+        },
+        {
+            "when": { "west": "white_large_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_lt/west" }
+        },
+        {
+            "when": { "west": "white_large_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_lb/west" }
+        },
+        {
+            "when": { "west": "white_large_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_rt/west" }
+        },
+        {
+            "when": { "west": "white_large_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_rb/west" }
+        },
+        {
+            "when": { "west": "white_light_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_lt/west" }
+        },
+        {
+            "when": { "west": "white_light_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_lb/west" }
+        },
+        {
+            "when": { "west": "white_light_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_rt/west" }
+        },
+        {
+            "when": { "west": "white_light_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_rb/west" }
+        },
+        {
+            "when": { "west": "white_light_tl" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_tl/west" }
+        },
+        {
+            "when": { "west": "white_light_tr" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_tr/west" }
+        },
+        {
+            "when": { "west": "white_light_bl" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_bl/west" }
+        },
+        {
+            "when": { "west": "white_light_br" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_br/west" }
+        },
+        {
+            "when": { "west": "black_square" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_square/west" }
+        },
+        {
+            "when": { "west": "black_grid" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_grid/west" }
+        },
+        {
+            "when": { "west": "black_tall_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_top/west" }
+        },
+        {
+            "when": { "west": "black_tall_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_left/west" }
+        },
+        {
+            "when": { "west": "black_tall_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_right/west" }
+        },
+        {
+            "when": { "west": "black_tall_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_bottom/west" }
+        },
+        {
+            "when": { "west": "black_large_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_lt/west" }
+        },
+        {
+            "when": { "west": "black_large_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_lb/west" }
+        },
+        {
+            "when": { "west": "black_large_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_rt/west" }
+        },
+        {
+            "when": { "west": "black_large_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_rb/west" }
+        },
+        {
+            "when": { "west": "black_light_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_lt/west" }
+        },
+        {
+            "when": { "west": "black_light_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_lb/west" }
+        },
+        {
+            "when": { "west": "black_light_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_rt/west" }
+        },
+        {
+            "when": { "west": "black_light_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_rb/west" }
+        },
+        {
+            "when": { "west": "black_light_tl" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_tl/west" }
+        },
+        {
+            "when": { "west": "black_light_tr" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_tr/west" }
+        },
+        {
+            "when": { "west": "black_light_bl" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_bl/west" }
+        },
+        {
+            "when": { "west": "black_light_br" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_br/west" }
+        },
+        {
+            "when": { "west": "stained_white_tall_1_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_top/west" }
+        },
+        {
+            "when": { "west": "light_both_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_top/west" }
+        },
+        {
+            "when": { "west": "stained_white_tall_1_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_left/west" }
+        },
+        {
+            "when": { "west": "light_both_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_left/west" }
+        },
+        {
+            "when": { "west": "stained_white_tall_1_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_right/west" }
+        },
+        {
+            "when": { "west": "light_both_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_right/west" }
+        },
+        {
+            "when": { "west": "stained_white_tall_1_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_bottom/west" }
+        },
+        {
+            "when": { "west": "light_both_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_bottom/west" }
+        },
+        {
+            "when": { "up": "none" },
+            "apply": { "model": "portalblocks:dynamic_panel/none/up" }
+        },
+        {
+            "when": { "up": "white_square" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_square/up" }
+        },
+        {
+            "when": { "up": "white_grid" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_grid/up" }
+        },
+        {
+            "when": { "up": "white_tall_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_top/up" }
+        },
+        {
+            "when": { "up": "white_tall_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_left/up" }
+        },
+        {
+            "when": { "up": "white_tall_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_right/up" }
+        },
+        {
+            "when": { "up": "white_tall_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_bottom/up" }
+        },
+        {
+            "when": { "up": "white_large_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_lt/up" }
+        },
+        {
+            "when": { "up": "white_large_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_lb/up" }
+        },
+        {
+            "when": { "up": "white_large_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_rt/up" }
+        },
+        {
+            "when": { "up": "white_large_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_rb/up" }
+        },
+        {
+            "when": { "up": "white_light_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_lt/up" }
+        },
+        {
+            "when": { "up": "white_light_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_lb/up" }
+        },
+        {
+            "when": { "up": "white_light_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_rt/up" }
+        },
+        {
+            "when": { "up": "white_light_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_rb/up" }
+        },
+        {
+            "when": { "up": "white_light_tl" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_tl/up" }
+        },
+        {
+            "when": { "up": "white_light_tr" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_tr/up" }
+        },
+        {
+            "when": { "up": "white_light_bl" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_bl/up" }
+        },
+        {
+            "when": { "up": "white_light_br" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_br/up" }
+        },
+        {
+            "when": { "up": "black_square" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_square/up" }
+        },
+        {
+            "when": { "up": "black_grid" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_grid/up" }
+        },
+        {
+            "when": { "up": "black_tall_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_top/up" }
+        },
+        {
+            "when": { "up": "black_tall_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_left/up" }
+        },
+        {
+            "when": { "up": "black_tall_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_right/up" }
+        },
+        {
+            "when": { "up": "black_tall_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_bottom/up" }
+        },
+        {
+            "when": { "up": "black_large_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_lt/up" }
+        },
+        {
+            "when": { "up": "black_large_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_lb/up" }
+        },
+        {
+            "when": { "up": "black_large_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_rt/up" }
+        },
+        {
+            "when": { "up": "black_large_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_rb/up" }
+        },
+        {
+            "when": { "up": "black_light_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_lt/up" }
+        },
+        {
+            "when": { "up": "black_light_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_lb/up" }
+        },
+        {
+            "when": { "up": "black_light_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_rt/up" }
+        },
+        {
+            "when": { "up": "black_light_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_rb/up" }
+        },
+        {
+            "when": { "up": "black_light_tl" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_tl/up" }
+        },
+        {
+            "when": { "up": "black_light_tr" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_tr/up" }
+        },
+        {
+            "when": { "up": "black_light_bl" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_bl/up" }
+        },
+        {
+            "when": { "up": "black_light_br" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_br/up" }
+        },
+        {
+            "when": { "up": "stained_white_tall_1_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_top/up" }
+        },
+        {
+            "when": { "up": "light_both_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_top/up" }
+        },
+        {
+            "when": { "up": "stained_white_tall_1_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_left/up" }
+        },
+        {
+            "when": { "up": "light_both_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_left/up" }
+        },
+        {
+            "when": { "up": "stained_white_tall_1_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_right/up" }
+        },
+        {
+            "when": { "up": "light_both_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_right/up" }
+        },
+        {
+            "when": { "up": "stained_white_tall_1_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_bottom/up" }
+        },
+        {
+            "when": { "up": "light_both_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_bottom/up" }
+        },
+        {
+            "when": { "down": "none" },
+            "apply": { "model": "portalblocks:dynamic_panel/none/down" }
+        },
+        {
+            "when": { "down": "white_square" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_square/down" }
+        },
+        {
+            "when": { "down": "white_grid" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_grid/down" }
+        },
+        {
+            "when": { "down": "white_tall_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_top/down" }
+        },
+        {
+            "when": { "down": "white_tall_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_left/down" }
+        },
+        {
+            "when": { "down": "white_tall_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_right/down" }
+        },
+        {
+            "when": { "down": "white_tall_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_tall_bottom/down" }
+        },
+        {
+            "when": { "down": "white_large_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_lt/down" }
+        },
+        {
+            "when": { "down": "white_large_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_lb/down" }
+        },
+        {
+            "when": { "down": "white_large_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_rt/down" }
+        },
+        {
+            "when": { "down": "white_large_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_large_rb/down" }
+        },
+        {
+            "when": { "down": "white_light_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_lt/down" }
+        },
+        {
+            "when": { "down": "white_light_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_lb/down" }
+        },
+        {
+            "when": { "down": "white_light_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_rt/down" }
+        },
+        {
+            "when": { "down": "white_light_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_rb/down" }
+        },
+        {
+            "when": { "down": "white_light_tl" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_tl/down" }
+        },
+        {
+            "when": { "down": "white_light_tr" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_tr/down" }
+        },
+        {
+            "when": { "down": "white_light_bl" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_bl/down" }
+        },
+        {
+            "when": { "down": "white_light_br" },
+            "apply": { "model": "portalblocks:dynamic_panel/white_light_br/down" }
+        },
+        {
+            "when": { "down": "black_square" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_square/down" }
+        },
+        {
+            "when": { "down": "black_grid" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_grid/down" }
+        },
+        {
+            "when": { "down": "black_tall_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_top/down" }
+        },
+        {
+            "when": { "down": "black_tall_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_left/down" }
+        },
+        {
+            "when": { "down": "black_tall_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_right/down" }
+        },
+        {
+            "when": { "down": "black_tall_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_tall_bottom/down" }
+        },
+        {
+            "when": { "down": "black_large_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_lt/down" }
+        },
+        {
+            "when": { "down": "black_large_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_lb/down" }
+        },
+        {
+            "when": { "down": "black_large_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_rt/down" }
+        },
+        {
+            "when": { "down": "black_large_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_large_rb/down" }
+        },
+        {
+            "when": { "down": "black_light_lt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_lt/down" }
+        },
+        {
+            "when": { "down": "black_light_lb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_lb/down" }
+        },
+        {
+            "when": { "down": "black_light_rt" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_rt/down" }
+        },
+        {
+            "when": { "down": "black_light_rb" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_rb/down" }
+        },
+        {
+            "when": { "down": "black_light_tl" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_tl/down" }
+        },
+        {
+            "when": { "down": "black_light_tr" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_tr/down" }
+        },
+        {
+            "when": { "down": "black_light_bl" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_bl/down" }
+        },
+        {
+            "when": { "down": "black_light_br" },
+            "apply": { "model": "portalblocks:dynamic_panel/black_light_br/down" }
+        },
+        {
+            "when": { "down": "stained_white_tall_1_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_top/down" }
+        },
+        {
+            "when": { "down": "light_both_top" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_top/down" }
+        },
+        {
+            "when": { "down": "stained_white_tall_1_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_left/down" }
+        },
+        {
+            "when": { "down": "light_both_left" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_left/down" }
+        },
+        {
+            "when": { "down": "stained_white_tall_1_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_right/down" }
+        },
+        {
+            "when": { "down": "light_both_right" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_right/down" }
+        },
+        {
+            "when": { "down": "stained_white_tall_1_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/stained_white_tall_1_bottom/down" }
+        },
+        {
+            "when": { "down": "light_both_bottom" },
+            "apply": { "model": "portalblocks:dynamic_panel/light_both_bottom/down" }
+        }
+    ]
+}

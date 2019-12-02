@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=up":	{ "model": "portalblocks:white_tall_panel_top" },
+		"facing=down":	{ "model": "portalblocks:white_tall_panel_bottom" },
+		"facing=north":	{ "model": "portalblocks:white_tall_panel_top",		"x": 90 },
+		"facing=south":	{ "model": "portalblocks:white_tall_panel_bottom",	"x": 90 },
+		"facing=east":	{ "model": "portalblocks:white_tall_panel_bottom",	"x": 270, "y": 90 },
+		"facing=west":	{ "model": "portalblocks:white_tall_panel_top",		"x": 270, "y": 90 }
+	}
+}

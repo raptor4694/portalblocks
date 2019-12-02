@@ -1,0 +1,9 @@
+{
+    "parent": "portalblocks:item/template_large_2x2_panel",
+    "textures": {
+		"panel_lb": "portalblocks:block/panels/black/clean/large_lb",
+		"panel_lt": "portalblocks:block/panels/black/clean/large_lt",
+		"panel_rb": "portalblocks:block/panels/black/clean/large_rb",
+		"panel_rt": "portalblocks:block/panels/black/clean/large_rt"
+	}
+}

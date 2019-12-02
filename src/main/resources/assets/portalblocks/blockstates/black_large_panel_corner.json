@@ -1,0 +1,12 @@
+{
+	"variants": {
+		"type=bottom_north_west":	{ "model": "portalblocks:black_large_panel_corner_bnw" },
+		"type=bottom_north_east":	{ "model": "portalblocks:black_large_panel_corner_bne" },
+		"type=bottom_south_west":	{ "model": "portalblocks:black_large_panel_corner_bsw" },
+		"type=bottom_south_east":	{ "model": "portalblocks:black_large_panel_corner_bse" },
+		"type=top_north_west":		{ "model": "portalblocks:black_large_panel_corner_tnw" },
+		"type=top_north_east":		{ "model": "portalblocks:black_large_panel_corner_tne" },
+		"type=top_south_west":		{ "model": "portalblocks:black_large_panel_corner_tsw" },
+		"type=top_south_east":		{ "model": "portalblocks:black_large_panel_corner_tse" }
+	}
+}

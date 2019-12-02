@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=up":	{ "model": "portalblocks:stained_white_tall_panel_1_up" },
+		"facing=down":	{ "model": "portalblocks:stained_white_tall_panel_1_down" },
+		"facing=north":	{ "model": "portalblocks:stained_white_tall_panel_1_north"},
+		"facing=south":	{ "model": "portalblocks:stained_white_tall_panel_1_south" },
+		"facing=east":	{ "model": "portalblocks:stained_white_tall_panel_1_east" },
+		"facing=west":	{ "model": "portalblocks:stained_white_tall_panel_1_west" }
+	}
+}

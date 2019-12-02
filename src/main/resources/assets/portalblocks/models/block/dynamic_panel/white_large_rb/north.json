@@ -1,0 +1,6 @@
+{
+    "parent": "portalblocks:block/dynamic_tile/template_north",
+    "textures": {
+        "face": "portalblocks:block/panels/white/clean/large_rb"
+    }
+}

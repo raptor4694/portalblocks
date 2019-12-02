@@ -1,0 +1,6 @@
+{
+	"parent": "portalblocks:block/light",
+	"textures": {
+		"light": "portalblocks:block/light_lb"
+	}
+}

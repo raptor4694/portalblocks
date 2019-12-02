@@ -1,0 +1,6 @@
+{
+	"parent": "portalblocks:block/floorbutton_casing",
+    "textures": {
+        "side": "portalblocks:block/button/side_on"
+    }
+}

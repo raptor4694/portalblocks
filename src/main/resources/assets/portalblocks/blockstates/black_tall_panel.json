@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=up":	{ "model": "portalblocks:black_tall_panel_up" },
+		"facing=down":	{ "model": "portalblocks:black_tall_panel_down" },
+		"facing=north":	{ "model": "portalblocks:black_tall_panel_north"},
+		"facing=south":	{ "model": "portalblocks:black_tall_panel_south" },
+		"facing=east":	{ "model": "portalblocks:black_tall_panel_east" },
+		"facing=west":	{ "model": "portalblocks:black_tall_panel_west" }
+	}
+}

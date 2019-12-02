@@ -1,0 +1,21 @@
+[
+{
+  "modid" : "PortalBlocks",
+  "name" : "PortalBlocks",
+  "version" : "3.0",
+  "url" : "",
+  "credits" : "",
+  "authors": [
+    "luc33990"
+  ],
+  "description": "Adds various blocks and items inspired by the game Portal 2, intending to go with iChun's PortalGun mod.",
+  "logoFile" : "",
+  "updateUrl" : "",
+  "parent" : "",
+  "screenshots": [
+  ],
+  "dependancies": [
+    "Forge"
+  ]
+}
+]

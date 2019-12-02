@@ -1,0 +1,20 @@
+{
+	"multipart": [
+		{
+			"when": { "facing": "north" },
+			"apply": { "model": "portalblocks:pedestalbutton" }
+		},
+		{
+			"when": { "facing": "east" },
+			"apply": { "model": "portalblocks:pedestalbutton", "y": 90 }
+		},
+		{
+			"when": { "facing": "south" },
+			"apply": { "model": "portalblocks:pedestalbutton", "y": 180 }
+		},
+		{
+			"when": { "facing": "west" },
+			"apply": { "model": "portalblocks:pedestalbutton", "y": 270 }
+		}
+	]
+}

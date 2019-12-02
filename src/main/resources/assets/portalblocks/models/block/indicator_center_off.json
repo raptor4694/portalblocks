@@ -1,0 +1,6 @@
+{
+	"parent": "portalblocks:block/indicator_center",
+	"textures": {
+		"face": "portalblocks:block/indicator_wire_off"
+	}
+}

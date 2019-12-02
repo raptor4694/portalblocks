@@ -1,0 +1,14 @@
+{
+	"textures": {
+		"particle": "#light"
+	},
+    "elements": [
+        {
+            "from": [ 0.0, 0.0, 15.998 ], 
+            "to": [ 16.0, 16.0, 15.998 ], 
+            "faces": {
+                "north": { "texture": "#light", "uv": [ 0, 0, 16, 16 ] }
+            }
+        }
+    ]
+}

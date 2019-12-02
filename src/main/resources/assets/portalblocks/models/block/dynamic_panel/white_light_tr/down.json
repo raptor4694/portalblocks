@@ -1,0 +1,6 @@
+{
+    "parent": "portalblocks:block/dynamic_panel/template_light_down_tr",
+    "textures": {
+        "grid": "portalblocks:block/white/clean/grid"
+    }
+}

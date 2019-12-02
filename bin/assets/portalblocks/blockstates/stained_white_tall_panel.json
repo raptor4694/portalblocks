@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"half=upper": { "model": "portalblocks:panel_dirty_top" },
+		"half=lower": { "model": "portalblocks:panel_dirty_bottom" }
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"multipart": [
+		{
+			"when": { "powered": "false" },
+			"apply": { "model": "portalblocks:floorbutton" }
+		},
+		{
+			"when": { "powered": "false" },
+			"apply": { "model": "portalblocks:floorbutton_casing" }
+		},
+		{
+			"when": { "powered": "true" },
+			"apply": { "model": "portalblocks:floorbutton_on" }
+		},
+		{
+			"when": { "powered": "true" },
+			"apply": { "model": "portalblocks:floorbutton_casing_on" }
+		}
+	]
+}

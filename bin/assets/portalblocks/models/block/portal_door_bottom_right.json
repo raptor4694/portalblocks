@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "portalblocks:block/portal_door_lower_flipped",
+        "top": "portalblocks:block/portal_door_upper_flipped"
+    }
+}

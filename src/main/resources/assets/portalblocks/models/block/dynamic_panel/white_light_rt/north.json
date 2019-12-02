@@ -1,0 +1,6 @@
+{
+    "parent": "portalblocks:block/dynamic_panel/template_light_north_rt",
+    "textures": {
+        "grid": "portalblocks:block/white/clean/grid"
+    }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "portalblocks:block/template_frame",
+	"textures": {
+		"face": "portalblocks:block/frame/yellow_1"
+	}
+}

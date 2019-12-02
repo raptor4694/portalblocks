@@ -1,0 +1,6 @@
+{
+    "parent": "portalblocks:block/dynamic_tile/template_up",
+    "textures": {
+        "face": "portalblocks:block/panels/white/clean/tall_top"
+    }
+}

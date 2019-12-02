@@ -1,0 +1,6 @@
+{
+    "parent": "portalblocks:block/dynamic_tile/template_west",
+    "textures": {
+        "face": "portalblocks:block/panels/white/dirty/tall_1_right"
+    }
+}

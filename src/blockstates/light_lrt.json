@@ -1,0 +1,65 @@
+{
+	"multipart": [
+		{ "when": { "facing": "north", "orientation": "side" },
+			"apply": { "model": "portalblocks:light_lt" }},
+		{ "when": { "facing": "north", "orientation": "side" },
+			"apply": { "model": "portalblocks:light_rt" }},
+		  
+		{ "when": { "facing": "east", "orientation": "side" },
+			"apply": { "model": "portalblocks:light_lt", "y": 90 }},
+		{ "when": { "facing": "east", "orientation": "side" },
+			"apply": { "model": "portalblocks:light_rt", "y": 90 }},
+			
+		{ "when": { "facing": "south", "orientation": "side" },
+			"apply": { "model": "portalblocks:light_lt", "y": 180 }},
+		{ "when": { "facing": "south", "orientation": "side" },
+			"apply": { "model": "portalblocks:light_rt", "y": 180 }},
+			
+		{ "when": { "facing": "west", "orientation": "side" },
+			"apply": { "model": "portalblocks:light_lt", "y": -90 }},
+		{ "when": { "facing": "west", "orientation": "side" },
+			"apply": { "model": "portalblocks:light_rt", "y": -90 }},
+			
+		
+		{ "when": { "facing": "north", "orientation": "top" },
+			"apply": { "model": "portalblocks:light_lt", "x": -90, "y": 180 }},
+		{ "when": { "facing": "north", "orientation": "top" },
+			"apply": { "model": "portalblocks:light_rt", "x": -90, "y": 180 }},
+			
+		{ "when": { "facing": "east", "orientation": "top" },
+			"apply": { "model": "portalblocks:light_lt", "x": -90, "y": -90 }},
+		{ "when": { "facing": "east", "orientation": "top" },
+			"apply": { "model": "portalblocks:light_rt", "x": -90, "y": -90 }},
+			
+		{ "when": { "facing": "south", "orientation": "top" },
+			"apply": { "model": "portalblocks:light_lt", "x": -90, "y": 0 }},
+		{ "when": { "facing": "south", "orientation": "top" },
+			"apply": { "model": "portalblocks:light_rt", "x": -90, "y": 0 }},
+			
+		{ "when": { "facing": "west", "orientation": "top" },
+			"apply": { "model": "portalblocks:light_lt", "x": -90, "y": 90 }},
+		{ "when": { "facing": "west", "orientation": "top" },
+			"apply": { "model": "portalblocks:light_rt", "x": -90, "y": 90 }},
+			
+		
+		{ "when": { "facing": "north", "orientation": "bottom" },
+			"apply": { "model": "portalblocks:light_lt", "x": 90 }},
+		{ "when": { "facing": "north", "orientation": "bottom" },
+			"apply": { "model": "portalblocks:light_rt", "x": 90 }},
+		
+		{ "when": { "facing": "east", "orientation": "bottom" },
+			"apply": { "model": "portalblocks:light_lt", "x": 90, "y": 90 }},
+		{ "when": { "facing": "east", "orientation": "bottom" },
+			"apply": { "model": "portalblocks:light_rt", "x": 90, "y": 90 }},
+			
+		{ "when": { "facing": "south", "orientation": "bottom" },
+			"apply": { "model": "portalblocks:light_lt", "x": 90, "y": 180 }},
+		{ "when": { "facing": "south", "orientation": "bottom" },
+			"apply": { "model": "portalblocks:light_rt", "x": 90, "y": 180 }},
+			
+		{ "when": { "facing": "west", "orientation": "bottom" },
+			"apply": { "model": "portalblocks:light_lt", "x": 90, "y": -90 }},
+		{ "when": { "facing": "west", "orientation": "bottom" },
+			"apply": { "model": "portalblocks:light_rt", "x": 90, "y": -90 }}
+	]
+}

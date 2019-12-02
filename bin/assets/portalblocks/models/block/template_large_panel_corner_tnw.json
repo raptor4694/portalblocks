@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"north": "#panel_rt",
+		"south": "#inside",
+		"east": "#inside",
+		"west": "#panel_lt",
+		"up": "#panel_lt",
+		"down": "#inside"
+	}
+}

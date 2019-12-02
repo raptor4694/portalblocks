@@ -1,0 +1,17 @@
+{
+    "parent": "block/door_top_rh",
+    "textures": {
+        "bottom": "portalblocks:block/portal_door_lower_open",
+        "top": "portalblocks:block/portal_door_upper_open"
+    },
+	"elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 3, 16, 16 ],
+            "faces": {
+                "up":    { "uv": [ 13, 0, 16, 16 ], "texture": "#bottom", "cullface": "up" },
+                "west":  { "uv": [ 16, 0,  0, 16 ], "texture": "#top", "cullface": "west" },
+                "east":  { "uv": [  0, 0, 16, 16 ], "texture": "#top" }
+            }
+        }
+    ]
+}

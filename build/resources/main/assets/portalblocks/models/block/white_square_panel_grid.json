@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "portalblocks:block/panels/white/clean/grid"
+	}
+}

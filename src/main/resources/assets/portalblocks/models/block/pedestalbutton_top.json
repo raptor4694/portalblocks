@@ -1,0 +1,242 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"button": "portalblocks:block/button/pedestal",
+		"particle": "portalblocks:item/pedestalbutton"
+	},
+	"elements": [
+		{
+			"name": "Front",
+			"from": [6.5, 0, 10],
+			"to": [9.5, 0.5, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 0.5], "texture": "#button"},
+				"east": {"uv": [2, 0, 3, 0.5], "texture": "#button"},
+				"south": {"uv": [0, 0, 3, 0.5], "texture": "#button"},
+				"west": {"uv": [0, 0, 1, 0.5], "texture": "#button"},
+				"up": {"uv": [0, 0, 3, 1], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [5.5, 0, 9.5],
+			"to": [6.5, 1, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [0, 1, 1, 2], "texture": "#button"},
+				"east": {"uv": [0, 1, 1, 2], "texture": "#button"},
+				"south": {"uv": [0, 1, 1, 2], "texture": "#button"},
+				"west": {"uv": [0, 1, 1, 2], "texture": "#button"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [9.5, 0, 9.5],
+			"to": [10.5, 1, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [0, 1, 1, 2], "texture": "#button"},
+				"east": {"uv": [0, 1, 1, 2], "texture": "#button"},
+				"south": {"uv": [0, 1, 1, 2], "texture": "#button"},
+				"west": {"uv": [0, 1, 1, 2], "texture": "#button"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [9.5, 0, 5.5],
+			"to": [10.5, 4.5, 6.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 4.5], "texture": "#button"},
+				"east": {"uv": [0, 0, 1, 4.5], "texture": "#button"},
+				"south": {"uv": [0, 0, 1, 4.5], "texture": "#button"},
+				"west": {"uv": [0, 0, 1, 4.5], "texture": "#button"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [5.5, 0, 5.5],
+			"to": [6.5, 4.5, 6.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 4.5], "texture": "#button"},
+				"east": {"uv": [0, 0, 1, 4.5], "texture": "#button"},
+				"south": {"uv": [0, 0, 1, 4.5], "texture": "#button"},
+				"west": {"uv": [0, 0, 1, 4.5], "texture": "#button"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Left",
+			"from": [5, 0, 6.5],
+			"to": [6, 1, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [0, 1, 1, 2], "texture": "#button"},
+				"east": {"uv": [0, 1, 3, 2], "texture": "#button"},
+				"south": {"uv": [2, 1, 3, 2], "texture": "#button"},
+				"west": {"uv": [0, 1, 3, 2], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [5, 1, 6.5],
+			"to": [6, 2, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#button"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#button"},
+				"south": {"uv": [0, 0, 1, 16], "texture": "#button"},
+				"west": {"uv": [0, 0, 3, 1], "texture": "#button"},
+				"up": {"uv": [0, 0, 1, 3], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [5, 1, 6.5],
+			"to": [6, 3, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#button"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#button"},
+				"south": {"uv": [0, 0, 1, 16], "texture": "#button"},
+				"west": {"uv": [0, 0, 3, 1], "texture": "#button"},
+				"up": {"uv": [0, 0, 1, 2], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [5, 3, 6.5],
+			"to": [6, 4, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#button"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#button"},
+				"south": {"uv": [0, 0, 1, 16], "texture": "#button"},
+				"west": {"uv": [0, 0, 3, 1], "texture": "#button"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Right",
+			"from": [10, 0, 6.5],
+			"to": [11, 1, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [2, 1, 3, 2], "texture": "#button"},
+				"east": {"uv": [0, 1, 3, 2], "texture": "#button"},
+				"south": {"uv": [0, 1, 1, 2], "texture": "#button"},
+				"west": {"uv": [0, 1, 3, 2], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [10, 1, 6.5],
+			"to": [11, 2, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#button"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#button"},
+				"south": {"uv": [0, 0, 1, 16], "texture": "#button"},
+				"west": {"uv": [0, 0, 3, 1], "texture": "#button"},
+				"up": {"uv": [0, 0, 1, 3], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [10, 1, 6.5],
+			"to": [11, 3, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#button"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#button"},
+				"south": {"uv": [0, 0, 1, 16], "texture": "#button"},
+				"west": {"uv": [0, 0, 3, 1], "texture": "#button"},
+				"up": {"uv": [0, 0, 1, 2], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [10, 3, 6.5],
+			"to": [11, 4, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#button"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#button"},
+				"south": {"uv": [0, 0, 1, 16], "texture": "#button"},
+				"west": {"uv": [0, 0, 3, 1], "texture": "#button"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Back1",
+			"from": [6.5, 0, 5],
+			"to": [9.5, 4, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 4], "texture": "#button"},
+				"east": {"uv": [0, 0, 1, 4], "texture": "#button"},
+				"south": {"uv": [0, 0, 3, 4], "texture": "#button"},
+				"west": {"uv": [2, 0, 3, 4], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Back2",
+			"from": [6.5, 4, 5],
+			"to": [9.5, 5, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 1], "texture": "#button"},
+				"east": {"uv": [0, 0, 1, 15.5], "texture": "#button"},
+				"south": {"uv": [0, 0, 3, 1], "texture": "#button"},
+				"west": {"uv": [0, 0, 1, 15.5], "texture": "#button"},
+				"up": {"uv": [0, 0, 3, 1], "texture": "#button"}
+			}
+		},
+		{
+			"name": "ButtonStand",
+			"from": [6.5, 0, 6.5],
+			"to": [9.5, 3, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [3, 0, 4, 3], "texture": "#button"},
+				"east": {"uv": [3, 0, 4, 3], "texture": "#button"},
+				"south": {"uv": [3, 0, 4, 3], "texture": "#button"},
+				"west": {"uv": [3, 0, 4, 3], "texture": "#button"},
+				"up": {"uv": [9.5, 9.5, 12.5, 12.5], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Button1",
+			"from": [6.4, 3.3, 5.5],
+			"to": [9.6, 4.3, 10.5],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 3.3, 8]},
+			"faces": {
+				"north": {"uv": [5, 0, 8, 1], "texture": "#button"},
+				"east": {"uv": [5, 0, 8, 1], "texture": "#button"},
+				"south": {"uv": [5, 0, 8, 1], "texture": "#button"},
+				"west": {"uv": [5, 0, 8, 1], "texture": "#button"},
+				"up": {"uv": [5, 0, 8, 5], "texture": "#button"},
+				"down": {"uv": [5, 0, 8, 5], "texture": "#button"}
+			}
+		},
+		{
+			"name": "Button2",
+			"from": [5.5, 3.3, 6.5],
+			"to": [10.5, 4.3, 9.5],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 3.3, 8]},
+			"faces": {
+				"north": {"uv": [5, 0, 8, 1], "texture": "#button"},
+				"east": {"uv": [5, 0, 8, 1], "texture": "#button"},
+				"south": {"uv": [5, 0, 8, 1], "texture": "#button"},
+				"west": {"uv": [5, 0, 8, 1], "texture": "#button"},
+				"up": {"uv": [4, 1, 9, 4], "texture": "#button"},
+				"down": {"uv": [4, 1, 9, 4], "texture": "#button"}
+			}
+		}
+	]
+}

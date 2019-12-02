@@ -1,0 +1,78 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [8, 8, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#panel_rb"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#panel_lb"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#panel_lb"}
+			}
+		},
+		{
+			"from": [8, 0, 0],
+			"to": [16, 8, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#panel_lb"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#panel_rb"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#panel_rb"}
+			}
+		},
+		{
+			"from": [0, 0, 8],
+			"to": [8, 8, 16],
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#panel_lb"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#panel_rb"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#panel_lt"}
+			}
+		},
+		{
+			"from": [8, 0, 8],
+			"to": [16, 8, 16],
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#panel_lb"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#panel_rb"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#panel_rt"}
+			}
+		},
+		{
+			"from": [0, 8, 0],
+			"to": [8, 16, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#panel_rt"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#panel_lt"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#panel_lt"}
+			}
+		},
+		{
+			"from": [8, 8, 0],
+			"to": [16, 16, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#panel_lt"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#panel_rt"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#panel_rt"}
+			}
+		},
+		{
+			"from": [0, 8, 8],
+			"to": [8, 16, 16],
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#panel_lt"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#panel_rt"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#panel_lb"}
+			}
+		},
+		{
+			"from": [8, 8, 8],
+			"to": [16, 16, 16],
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#panel_lt"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#panel_rt"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#panel_rb"}
+			}
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+   "button_down": {"category": "master","sounds": [{"name": "portalblocks:floorbutton_down","stream": false}]},
+   "button_up": {"category": "master","sounds": [{"name": "portalblocks:floorbutton_up","stream": false}]},
+   "button_press": {"category": "master","sounds": [{"name": "portalblocks:pedestalbutton_press","stream": false}]},
+   "door_close": {"category": "master","sounds": [{"name": "portalblocks:door_close","stream": false}]},   
+   "door_open": {"category": "master","sounds": [{"name": "portalblocks:door_open","stream": false}]},
+   "door_unlock": {"category": "master","sounds": [{"name": "portalblocks:door_unlock","stream": false}]},
+   "records.finale" : {"category": "music", "sounds": [{"name": "portalblocks:finale","stream":true}]},
+   "records.apple" : {"category": "music", "sounds": [{"name": "portalblocks:apple","stream":true}]},
+   "records.chambertop" : {"category": "music", "sounds": [{"name": "portalblocks:chambertop","stream":true}]},
+   "records.intro" : {"category": "music", "sounds": [{"name": "portalblocks:intro","stream":true}]},
+   "records.abadu_gaben" : {"category": "music", "sounds": [{"name": "portalblocks:abadu_gaben","stream":true}]}
+}
