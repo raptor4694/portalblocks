@@ -1,9 +1,0 @@
-{
-	"parent": "block/cube_bottom_top",
-	"textures": {
-		"particle": "portalblocks:block/panels/white/clean/square",
-		"top": "portalblocks:block/panels/white/clean/square",
-		"bottom": "portalblocks:block/frame_yellow",
-		"side": "portalblocks:block/panels/white/clean/tall_top"
-	}
-}

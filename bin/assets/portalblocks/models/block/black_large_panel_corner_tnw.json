@@ -2,7 +2,7 @@
     "parent": "portalblocks:block/template_large_panel_corner_tnw",
     "textures": {
         "particle": "portalblocks:block/panels/black/clean/square",
-        "inside": "portalblocks:block/frame_black",
+        "inside": "portalblocks:block/frame_yellow",
         "panel_lb": "portalblocks:block/panels/black/clean/large_lb",
         "panel_rb": "portalblocks:block/panels/black/clean/large_rb",
         "panel_lt": "portalblocks:block/panels/black/clean/large_lt",
